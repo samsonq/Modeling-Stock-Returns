@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+datetime
+scikit-learn
+tensorflow
+keras
